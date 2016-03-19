@@ -15,3 +15,8 @@ A typical situation is to keep a branch only for bug fixing and another one for 
 
 How do the diagrams help you visualize the branch structure?
 Showing the relationship between each commit.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It is one commit on the checked out node with all code together.
+I didn't understand why I didn't see the branch coins and I could at the same time do the command "git checkout coins".
+
