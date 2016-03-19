@@ -12,3 +12,6 @@ Inserting in the staging area only the files related to one logical change and c
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 A typical situation is to keep a branch only for bug fixing and another one for development.
+
+How do the diagrams help you visualize the branch structure?
+Showing the relationship between each commit.
