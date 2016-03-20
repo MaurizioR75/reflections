@@ -20,3 +20,9 @@ What is the result of merging two branches together? Why do we represent it in t
 It is one commit on the checked out node with all code together.
 I didn't understand why I didn't see the branch coins and I could at the same time do the command "git checkout coins".
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+pros
+Save time.
+cons
+If Git works well and signal every time it encouters a conflict, I cannot see any cons.
+
