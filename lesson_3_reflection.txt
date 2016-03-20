@@ -15,3 +15,6 @@ checked out one.
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Without a version control, nothing could be easier, only the learning curve.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+When I would like to try a new functionality and I want someone test it, before committing it into the master branch.
